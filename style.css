@@ -1,0 +1,40 @@
+/*
+
+Theme Name:   Storefront
+Theme URI:    https://woocommerce.com/storefront
+Author:       WooThemes and Audrey Andoy
+Template:     Storefront
+Version:      1.0.0
+
+*/
+
+@import url("../storefront/style.css");
+
+body {
+  font-family: Helvetica;
+}
+
+.woocommerce-product-search {
+  display: none;
+}
+
+.storefront-primary-navigation {
+  margin-top: 250px;
+}
+
+
+.store-text {
+  font-size: 60px;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.site-footer {
+  background-color: white;
+  color: black;
+}
+
+.site-info {
+   left: 10px;
+  bottom: 0px;
+}
